@@ -1,2 +1,2 @@
-# quiz
-quiz glo academy
+# quiz-glo
+Квиз для интенсива Glo Academy
